@@ -10,3 +10,6 @@ Utilize Medicare cost report data obtained from the Department of Health and Hum
 
 ## Data
 - Original dataset contains 6,103 rows and 117 columns
+
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=r&perline=3)](https://skillicons.dev)
